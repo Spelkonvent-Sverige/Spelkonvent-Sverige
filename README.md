@@ -10,4 +10,4 @@ Lista över nörd- och spelkonvent i Sverige.
 - [Wexio Spelkonvent](https://www.wexiospelkonvent.se/) - Växsjö
 - [Calcon](https://calcon.se/) - Kalmar
 
-Öppen källkod på [Github](https://github.com/Spelkonvent-Sverige/Spelkonvent-Sverige). Licenserat under [MIT License](https://github.com/Spelkonvent-Sverige/Spelkonvent-Sverige/blob/main/LICENSE).
+Öppen källkod tillgänglig på [Github](https://github.com/Spelkonvent-Sverige/Spelkonvent-Sverige). Licenserat under [MIT License](https://github.com/Spelkonvent-Sverige/Spelkonvent-Sverige/blob/main/LICENSE).
